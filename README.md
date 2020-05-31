@@ -1,4 +1,4 @@
-# Background-Changer-AHK
+# Background Changer v2
 This is a better background changer than the one I made with a batch file. This is made using AutoHotkey.
 
 ## Instructions
